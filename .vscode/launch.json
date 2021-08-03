@@ -7,8 +7,9 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "c:\\Users\\aoc\\vscode\\python_web_server\\index.html"
+            "name": "Open .html",
+            // "file": "c:\\Users\\aoc\\vscode\\python_web_server\\index.html"
+            "file": "${file}"
         }
     ]
 }
